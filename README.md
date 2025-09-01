@@ -11,7 +11,7 @@ O objetivo é criar uma página inicial de portfólio pessoal, onde é possível
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5** → Estrutura da página.
 - **CSS3** → Estilização e responsividade.
-- **JavaScript** → Interatividade (exibir mensagens no console e interação com botões).
+- **JavaScript** → Interatividade.
 
 ## 📚 O que eu aprendi
 - Como organizar a estrutura de um projeto web básico.
